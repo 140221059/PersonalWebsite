@@ -1,4 +1,4 @@
-
+@media only screen and (max-width: 960px) {
 /*
  * Made by Erik Terwan
  * 24th of November 2015
@@ -161,3 +161,4 @@
  {
    transform: none;
  }
+}
