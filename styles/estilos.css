@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
 /*
  * Made by Erik Terwan
  * 24th of November 2015
@@ -38,7 +38,8 @@
  {
    display: block;
    position: relative;
-   top: 50px;
+   top: 0px;
+   left: 0px;
    
    z-index: 1;
    
